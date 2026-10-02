@@ -4,11 +4,11 @@
 
 ## [Windows 설치 ZIP 다운로드](https://github.com/Febrile-JoJoo/Josephs-Voice-Typing/releases/latest)
 
-현재 배포 버전: **0.1.19**
+현재 배포 버전: **0.1.20**
 
-1. 릴리즈의 Assets에서 `Josephs-Voice-Typing-Setup-0.1.19.zip`을 내려받습니다.
+1. 릴리즈의 Assets에서 `Josephs-Voice-Typing-Setup-0.1.20.zip`을 내려받습니다.
 2. ZIP의 압축을 풉니다.
-3. 안의 `Josephs-Voice-Typing-Setup-0.1.19.exe`를 실행합니다.
+3. 안의 `Josephs-Voice-Typing-Setup-0.1.20.exe`를 실행합니다.
 
 Windows 10/11 64비트를 지원하며 Python을 따로 설치할 필요가 없습니다. ZIP에는 설치 EXE 하나만 들어 있습니다. 기존 버전의 독립 EXE 다운로드는 최신 ZIP 배포로 대체합니다.
 
